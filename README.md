@@ -8,7 +8,7 @@ Hi there! I am a recent Computer Science and Math graduate looking to improve my
 
 ##  Directory
 
-| Project | Description | Date |
+| Project | Description | <div style="width: 200px;">Date</div> |
 | :-----------: | -------- | -------------------- |
 |  [Predicting Admission](https://github.com/sorandomchad/projects/tree/main/admissions-regression) | Predict the chance of being admitted to grad school with regression in Keras | Jan 2025 |
 |  [RFM Anaysis](https://github.com/sorandomchad/projects/blob/main/rfm-analysis/rfm_analysis.ipynb) | Analyzing customer spending trends with Pandas | Dec 2024 |
