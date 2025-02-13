@@ -11,7 +11,7 @@ The purpose of this project is to practice formulating questions and implementin
 
 
 ## Dataset
-The dataset includes about 60k profiles from the OkCupid application in [profiles.csv](profiles.csv). Some salient features include age, bio, religion, ethnicity, height, job, location, sex, sexual orientation, astrology sign. Some less intuitive/unnamed variables include:
+The dataset includes about 60k profiles from the OkCupid application in [profiles.csv](profiles_sample.csv). Some salient features include age, bio, religion, ethnicity, height, job, location, sex, sexual orientation, astrology sign. Some less intuitive/unnamed variables include:
 
 | Variable | Description |
 | :-----------: | -------- |
