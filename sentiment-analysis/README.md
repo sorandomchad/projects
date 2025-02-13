@@ -18,7 +18,7 @@ These files are loaded with each line representing an article.
 | ap_articles.txt | Associated Press articles scraped from their website |
 | cnn_articles.txt | CNN articles scraped from their website |
 | fox_articles2.txt | Fox News articles scraped from their website |
-| SentimentAnalysis_presentation_Callender.pptx | PowerPoint presentation with results and insights |
+| SentimentAnalysis_presentation_Callender.pdf | PowerPoint presentation with results and insights |
 
 
 ## Model
